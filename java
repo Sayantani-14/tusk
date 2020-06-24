@@ -9,6 +9,9 @@ public class constructor_1 {
 		constructor obj1 = new constructor("Mritunjay", "male", 852369555);
 		obj1.displayinfo();
 		
+		constructor obj1 = new constructor("Sudeshna", "female", 859969555);
+		obj1.displayinfo();
+		
 		constructor obj2 = new constructor();
 		obj2.displayinfo();
 	}
